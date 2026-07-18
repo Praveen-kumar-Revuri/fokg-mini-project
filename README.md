@@ -158,7 +158,7 @@ fold 4: ROC AUC = 0.7238
 fold 5: ROC AUC = 0.7145
 mean ROC AUC = 0.7040  (std 0.0245)
 ```
-<img width="1694" height="655" alt="{98810068-0B96-43E5-B57B-A7C4C825C23F}" src="https://github.com/user-attachments/assets/4d863c2d-cf95-4645-b560-28fff3e9c508" />
+https://github.com/Praveen-kumar-Revuri/fokg-mini-project/blob/main/Screenshot%202026-07-18%20135735.png
 | Metric | Value |
 |--------|-------|
 | Local 5-fold CV ROC AUC (SW 2022 Train) | **70.40%** |
