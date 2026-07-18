@@ -158,6 +158,7 @@ fold 4: ROC AUC = 0.7238
 fold 5: ROC AUC = 0.7145
 mean ROC AUC = 0.7040  (std 0.0245)
 ```
+<img width="1533" height="667" alt="{8A229298-6B2E-4BBE-A67C-3B22D3E3042A}" src="https://github.com/user-attachments/assets/246ca97c-f478-41c2-b09b-50c4714587aa" />
 
 | Metric | Value |
 |--------|-------|
